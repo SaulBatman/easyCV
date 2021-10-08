@@ -9,5 +9,5 @@ Every ipynb file corresponds to a lecture, in which you can find code for every 
 Last thing, remember to install the Anaconda software and jupyter notebook by type following command in your terminal.
 ```
 pip install jupyter
-pip install opencv-python numpy matplotlib
+pip install opencv-python numpy matplotlib skimage scipy
 ```
